@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main() {
+int main() 
+{
     float number1, number2, Mul;
     
     printf("Number 1 : ");
