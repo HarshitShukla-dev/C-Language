@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main(){
+int main()
+{
     char chr;
     
     printf("Enter the Character : ");
